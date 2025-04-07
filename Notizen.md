@@ -34,3 +34,24 @@ Liste erstellen csv datei zb.
 
 
 Orte dann Zeit (Datum) ![image](https://github.com/user-attachments/assets/bb11d0c8-5f38-4b01-8a8b-e8f426e40570)
+
+
+
+
+To do:
+Pfeiffer: 
+entity-recognision (Flare, LLM-API) -> Flare ausprobieren -> darüber informieren, wie gut dies funktioniert -> refelktion: was regelmässig falsch, bessonders gut? 
+
+Forster: 
+Normanisierungsarbeit:
+open refine 
+
+csv-Datei 
+Liste mit Orten -> Video 
+Normanisieren und Geo-Koordinaten hinzufügen 
+
+Daten und Orte miteinander verbinden 
+
+Reiselänge: 
+viabundus: länge anhnad historischen Routenplaner 
+
