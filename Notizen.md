@@ -39,6 +39,7 @@ Orte dann Zeit (Datum) ![image](https://github.com/user-attachments/assets/bb11d
 
 
 To do:
+
 Pfeiffer: 
 entity-recognision (Flare, LLM-API) -> Flare ausprobieren -> darüber informieren, wie gut dies funktioniert -> refelktion: was regelmässig falsch, bessonders gut? 
 
