@@ -3,4 +3,6 @@
 
 Geovisualisierung: Weltkarte mit Orten & Reiseroute --> Heatmap (Grösse der Orte=Zeit verbracht)
 NOrmalisierung: Auf powerpoint nachschauen --> NER (named entity recognition)
+
 OpenRefine
+- String cast von Powerpoint anschauen
