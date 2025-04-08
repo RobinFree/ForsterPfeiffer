@@ -2,20 +2,20 @@ Protokoll (De-)Coding history
 
 
 24.03.25: 
-Gruppenfindung/Korpusauswahl und Besprechung der Fragestellung 
-Welche Orte wurden bereist? Wie oft werden diese Orte erwähnt? Welche Reiserouten wurden gewählt? Wie lange dauerten die Reisen? 
+  Gruppenfindung/Korpusauswahl und Besprechung der Fragestellung 
+  Welche Orte wurden bereist? Wie oft werden diese Orte erwähnt? Welche Reiserouten wurden gewählt? Wie lange dauerten die Reisen? 
 
 7.04.25:
-XML-Dateien von Forster und Pfeiffer wurden angeschaut. Individuelle Versuche eine Liste der Orte zu erstellen: 
-Problemstellung: Bei Pfeiffer werden keine Orte aufgelistet  Orte sind in den XML-Dateien nicht getaggt. Bei Forster werden zwar die Orte aufgelistet, aber die Liste beinhaltet unterschiedliche Schreibvarianten und Abkürzungen. 
+  XML-Dateien von Forster und Pfeiffer wurden angeschaut. Individuelle Versuche eine Liste der Orte zu erstellen: 
+  Problemstellung: Bei Pfeiffer werden keine Orte aufgelistet  Orte sind in den XML-Dateien nicht getaggt. Bei Forster werden zwar die Orte aufgelistet, aber die Liste beinhaltet unterschiedliche Schreibvarianten und Abkürzungen. 
 
-Aufteilung in zwei Gruppen: 
+  Aufteilung in zwei Gruppen: 
 
-Gruppe Forster: 
-Ziel: Normalisierung/Einheitliche Schreibweise der Orte  
-Methode: 
+  Gruppe Forster: 
+    Ziel: Normalisierung/Einheitliche Schreibweise der Orte  
+    Methode: 
 
 
-Gruppe Pfeiffer: 
-Ziel: entity recognition/Orte taggen 
-Methode: Verschiedene LLM ausprobieren, Flaire 
+  Gruppe Pfeiffer: 
+    Ziel: entity recognition/Orte taggen 
+    Methode: Verschiedene LLM ausprobieren, Flaire 
