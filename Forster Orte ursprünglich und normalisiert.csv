@@ -1,0 +1,1472 @@
+Place Name;Place Name normalised;Place Name unique; Place Name unique sorted;Place Name unique manually
+London;London;London;Abyssinien;Abyssinien
+Madrid;Madrid;Madrid;Adiha;Adiha
+GoÍ¤ttingen;Göttingen;Göttingen;Admiralitäts-Bay;Admiralitäts-Bay
+UpÅ¿al;Upsal;Upsal;Adventure-Bay;Adventure-Bay
+Danzig;Danzig;Danzig;Adventure-Eyland;Adventure-Eyland
+Berlin;Berlin;Berlin;Aetepieha;Aetepieha
+Paris;Paris;Paris;Africa;Afrika
+London;London;Preussen;Afrika;Aitepiha
+Madrid;Madrid;Deutschland;Afrique;Alpen
+Berlin;Berlin;Alpen;Aitepieha;Amerika
+GoÍ¤ttingen;Göttingen;Rheins;Aitepiha;Amsterdam
+Berlin;Berlin;Amerika;Alpen;Anamocka
+PreuÅ¿Å¿en;Preussen;England;Alphen;Anker-Insel
+DeutÅ¿chland;Deutschland;Juan Fernandez;America;A-Poto Poto
+Alpen;Alpen;Madera;Amerika;Arabien
+Rheins;Rheins;Parnassus;Amsterdam;Ascension
+DeutÅ¿chland;Deutschland;Plymouth;Anamocka;Asien
+DeutÅ¿chland;Deutschland;Tahiti;Anker-Insel;atlantischen Ocean
+London;London;freundschaftlichen Inseln;A-Poto Poto;Attahuru
+Amerika;Amerika;Neuen-Hebriden;Arabiä¦;Auhäiau
+Berlin;Berlin;Neu-Seeland;Arabien;Barbarey
+England;England;Neu-Caledonien;Ascension;Bashees Inseln
+Juan Fernandez;Juan Fernandez;Südsee;Asien;Batavia
+Ma- dera;Madera;SüdMeer;atlantischen Ocean;Bay of Plenty
+Juan Fernandez;Juan Fernandez;Afrika;atlantischen Oceans;Berings-Eyland
+Madera;Madera;atlantischen Oceans;Attahuru;Berlin
+ParnaÅ¿Å¿us;Parnassus;Neu-Holland;Auhäiau;Indien
+England;England;indianischen Ocean;Barbarey;Bonavista
+England;England;Süd-Meer;Basheeâ€’Inseln;Borabora
+England;England;Süd-Amerika;Batavia;Boscawen und Keppels-Eylande
+England;England;pacifischen Oceans;Bay of Plenty;Boseawen
+England;England;stillen Meers;Berings-Eyland;Bourbon
+Plymouth;Plymouth;stille Meer;Berlin;Brasilien
+Tahiti;Tahiti;grosse Süd-Meer;beyder Indien;Brest
+Tahiti;Tahiti;südliche Eismeer;blauen Berge;Bretane
+freundÅ¿chaftlichen InÅ¿eln;freundschaftlichen Inseln;Panama;blauen Bergen;Bristol
+Neuen-Hebriden;Neuen-Hebriden;Sevilla;Bolabola;Britannien
+Neu-Seeland;Neu-Seeland;Spanien;Bonavista;Cadiz
+Neu-Caledonien;Neu-Caledonien;Ladrones;Borabora;Calao
+SuÍ¤dÅ¿ee;Südsee;Diebs-Inseln;Boscawenund Keppels-Eylande;Calhetta
+London;London;Philippinischen Inseln;Boseawen;Californien
+SuÍ¤d- Meer;SüdMeer;South Pacifik Ocean;Bourbon;Callao
+Afrika;Afrika;Mexico;Brasilien;Camara de Lobos
+Amerika;Amerika;Molukkischen Inseln;Brest;Canaria
+atlantiÅ¿chen Oce- ans;atlantischen Oceans;Neu-Guinea;Bretane;Candia
+Afrika;Afrika;Peru;Bristol;Cannibal-Cove
+Neu-Holland;Neu-Holland;Salomons Inseln;Britannien;Cap
+indianiÅ¿chen Ocean;indianischen Ocean;Neu-Britannien;Cadiz;Cap Blake
+SuÍ¤d-Meer;Süd-Meer;Neu-;Cal-;Cap de la Circoncision
+Neu-Holland;Neu-Holland;Irrland;Calao;Cap der guten Hoffnung
+SuÍ¤d-Amerika;Süd-Amerika;Marquesas;Calhetta;Cap Farewell
+pacifiÅ¿chen Oceans;pacifischen Oceans;Santa Cruz;Californien;Cap Finisterre
+Å¿tillen Meers;stillen Meers;Egmont;Callao;Cap Foul-Wind
+Å¿tille Meer;stille Meer;Ladronischen Inseln;Camara de Lobos;Cap Horn
+groÃŸe SuÍ¤d-Meer;grosse Süd-Meer;Hawkins's Maiden-Land;Canaria;Cap Kidnappers
+Å¿uÍ¤dliche Eismeer;südliche Eismeer;Manilla;Candia;Cap Koamaru
+SuÍ¤d- Meer;SüdMeer;la Encarnacion;Canibal-Cove;Cap Palliser
+Panama;Panama;Pitcairns Eyland;Cannibal-Cove;Cap Stephens
+Sevilla;Sevilla;Quiros;Cap;Cap Tera-Witti
+Spanien;Spanien;Sagittaria;Cap Blake;Cap West
+SuÍ¤d-Meer;Süd-Meer;Otahiti;Cap Circoncision;Caps
+Ladrones;Ladrones;Tierra del Espiritu Santo;Cap de la Circoncision;Cap-Verdischen Inseln
+Diebs-InÅ¿eln;Diebs-Inseln;Californien;Cap der guten Hoffnung;Carlsberg
+Philippini- Å¿chen InÅ¿eln;Philippinischen Inseln;Neu-Albion;Cap der guten Hofnung;Cascade Cove
+South Pacifik Ocean;South Pacifik Ocean;Endeavours-Strasse;Cap Farewell;Cascade-Bucht
+London;London;Holland;Cap Finisterre;Castilien
+Mexico;Mexico;Cap Horn;Cap Foul-Wind;Chain-Island
+MolukkiÅ¿chen InÅ¿eln;Molukkischen Inseln;stillen Ocean;Cap Horn;Charlotten-Sund
+Å¿tille Meer;stille Meer;Neu-Irrland;Cap Kidnappers;China
+Neu-Guinea;Neu-Guinea;Terra del Fuego;Cap Koamaru;chinesischen See
+Peru;Peru;Batavia;Cap Koa-Maruh;Cocos und Verräther-Insel
+Salomons InÅ¿eln;Salomons Inseln;Mauritius;Cap Palliser;Cocos-Hofnungs und Horn-Eyland
+Neu-Britannien;Neu-Britannien;Van Diemens Land;Cap Stephens;Cocos-Verräther und Horne-Inseln
+Neu-;Neu-;N. Seeland;Cap Tera Witti;Coimbra
+Irrland;Irrland;stillen Meere;Cap Terawitti;Constantia
+Amerika;Amerika;atlantischen Ocean;Cap Tera-Witti;Cooks-Strasse
+Å¿tille Meer;stille Meer;NeuGuinea;Cap West;Cornwall
+MarqueÅ¿as;Marquesas;Salomons-Inseln;Caps;Corunna
+Santa Cruz;Santa Cruz;Oster-Eiland;Cap-Verdischen Inseln;Danzig
+Eg- mont;Egmont;Greenwich;Carlsberg;Derbyshire
+Peru;Peru;Europa;Cascade Cove;Deserteurs
+LadroniÅ¿chen InÅ¿eln;Ladronischen Inseln;Isle de St. Pierre;Cascade-Bucht;Deutschland
+Hawkinsâ€™s Maiden-Land;Hawkins's Maiden-Land;Süd-Georgien;Cascaden-Bucht;Diebs-Inseln
+Manilla;Manilla;Falklands-Inseln;Castilien;Doubtful Eyland
+Peru;Peru;Magellanische Meer-Enge;Chain-Island;Doubtfull-Bay
+la Encarnacion;la Encarnacion;stillen Meer;chal;Doubtles-Bay
+Pitcairns Eyland;Pitcairns Eyland;Magellanischen Meer-Enge;CharlottenSund;Drake's Island
+Quiros;Quiros;Boscawenund Keppels-Eylande;Charlotten-Sund;Duck-Cove
+Sagittaria;Sagittaria;Cocos und Verräthers Eylande;Charlotten-Sunde;Dusky-Bay
+Tahiti;Tahiti;Encarnacion;China;EaheinoMauwe
+Otahiti;Otahiti;Santa-Cruz;chinesischen See;East-Bay
+Tierra del EÅ¿piritu Santo;Tierra del Espiritu Santo;SocietätsInseln;Cocos und Verräther-Insel;Easter-Eyland
+Mexico;Mexico;Neu-Seelands;Cocos und Verräthers Eylande;Ea-Uwhe
+Californien;Californien;Pondichery;Cocos-Hofnungsund Horn-Eyland;Eddistone
+Neu-Albion;Neu-Albion;Doubtfull-Bay;Cocos-Verräther und Horne-Inseln;Egmont
+Neu-Guinea;Neu-Guinea;Calao;Cocos-Verräther-Hoff-;Eimeo
+Neu-Holland;Neu-Holland;Mauritius-Insel;Coimbra;Encarnacion
+Endeavours-StraÃŸe;Endeavours-Strasse;Frankreich;Constantia;Endeavours-Strasse
+Holland;Holland;Cap der guten Hoffnung;CooksStrasse;Endten-Bucht
+Cap Horn;Cap Horn;Madagascar;Cooks-Strasse;England
+Å¿tillen Ocean;stillen Ocean;Südpol;Cornwall;Europa
+Tahiti;Tahiti;Cap;Corunna;Eyland
+Neu-Irrland;Neu-Irrland;Vorgebürge der guten Hoffnung;Danzig;Falklands-Inseln
+Neu-Guinea;Neu-Guinea;Engelland;Derbyshire;Falsebay
+MolukkiÅ¿chen InÅ¿eln;Molukkischen Inseln;Fayal;Deserteurs;False-Bay
+Cap Horn;Cap Horn;beyder Indien;Deutschland;Färroer-Inseln
+Terra del Fuego;Terra del Fuego;Sheerness;Diebs-Inseln;Fayal
+Batavia;Batavia;Cornwall;DoubtfulEyland;Ferrol
+Mauritius;Mauritius;Poldyre;Doubtfull-Bay;Feuer-Bay
+indianiÅ¿chen Ocean;indianischen Ocean;Kenwyn;Doubtles-Bay;Finisterre
+Van Diemens Land;Van Diemens Land;Vorgebürge der guten Hofnung;Drake-Eyland;Five-Finger-Land
+Neu-Holland;Neu-Holland;Cap de la Circoncision;Drake's Island;Frankreich
+Neu-Seeland;Neu-Seeland;Vorgebürge de la Circoncision;Duck-Cove;freundschaftlichen Inseln
+N. Seeland;N. Seeland;Spithead;Dusky Bay;Friedrich Henrichs-Bay
+Å¿tillen Meere;stillen Meere;Portsmouth;DuskyBay;friendly Islands
+Peru;Peru;Drake's Island;Dusky-Bay;Funchal
+Cap Horn;Cap Horn;Plymouth-Haven;EaheinoMauwe;Fuogo
+atlanti- Å¿chen Ocean;atlantischen Ocean;Drake-Eyland;East Bay;Furneaux-Eyland
+Neu- Guinea;NeuGuinea;Englands;East-Bay;Georg des dritten Insel
+Salomons-InÅ¿eln;Salomons-Inseln;Eddistone;Easter-Eyland;glücklichen Inseln
+Neu-Britannien;Neu-Britannien;Vorgebürge Ortegal;Easteroder Oster-Eyland;Gothenburg
+atlantiÅ¿chen Ocean;atlantischen Ocean;Ortiguera;Ea-Uwhe;Göttingen
+Cap Horn;Cap Horn;Promontorium trileucum;Eddistone;Gras-Cove
+OÅ¿ter-Eiland;Oster-Eiland;Corunna;Egmont;Greenwich
+Tahiti;Tahiti;the Groyn;Eimeo;Grönland
+atlantiÅ¿chen Ocean;atlantischen Ocean;Marseille;Encarnacion;gros Ventre-Bay
+Greenwich;Greenwich;Ferrol;Endeavours-Strasse;grosse Süd-Meer
+Greenwich;Greenwich;Finisterre;Endten-Bucht;Gros-Tahiti
+London;London;Cap Finisterre;Engelland;grünen Vorgebürges
+Europa;Europa;Porto-Santo;England;Guinea
+Peru;Peru;Ilhas desertas;Englands;Hamaneno
+atlantiÅ¿chen Ocean;atlantischen Ocean;Deserteurs;Europa;Hawkes-Bay
+Isle de St. Pierre;Isle de St. Pierre;Fun-;Eyland;Hawkins's Maiden-Land
+SuÍ¤d-Georgien;Süd-Georgien;chal;Falklands-Inseln;Herurua
+Falklands-InÅ¿eln;Falklands-Inseln;Funchal;Falsebay;Hervey-Eyland
+MagellaniÅ¿che Meer-Enge;Magellanische Meer-Enge;Barbarey;False-Bay;hetta
+Å¿tillen Meer;stillen Meer;Levante;Färroer-Inseln;Hiddia
+MagellaniÅ¿chen Meer-Enge;Magellanischen Meer-Enge;St. Clara;Fayal;Hierusalem
+Tahiti;Tahiti;Maxico;Ferro;Hippah-Felsen
+Sagittaria;Sagittaria;Maschiko;Ferrol;Holland
+BoÅ¿cawen- und Kep- pels-Eylande;Boscawenund Keppels-Eylande;Cal-;Feuer-Bay;Holz-Bay
+Cocos- und VerraÍ¤thers Eylande;Cocos und Verräthers Eylande;hetta;Finisterre;Horn-Eyland
+Quiros;Quiros;San Vincente;Five-Finger-Land;Hottentot-Holland
+Encarnacion;Encarnacion;Calhetta;Frankreich;Hout-Bay
+Santa-Cruz;Santa-Cruz;Camara de Lobos;freundschaftlichen Inseln;Huaheine
+Tahiti;Tahiti;Ribeira braba;Friedrich Henrichs-Bay;Hudsons-Bay
+Tierra del Espi- ritu Santo;Tierra del Espiritu Santo;Ponta de Sol;friendly Islands;Ilha dos Codornizes
+Neu-Guinea;Neu-Guinea;Maschicko;Fun-;Ilhas desertas
+London;London;Porto Santo;Funchal;Indian-Cove
+Tahiti;Tahiti;Salvages;Fuogo;Indianer-Insel
+SocietaÍ¤ts- InÅ¿eln;SocietätsInseln;Lissabon;Furneaux-Eyland;indianischen Ocean
+SuÍ¤d-Meer;Süd-Meer;Coimbra;Georg des dritten Insel;Indien
+Neu-Seelands;Neu-Seelands;Portugal;glücklichen Inseln;Indien-Cove
+Neu-Holland;Neu-Holland;Val;Gothenburg;Indien und Shag-Cove
+Neu-Holland;Neu-Holland;Derbyshire;Göttingen;Insel-Bay
+Neu-Guinea;Neu-Guinea;Ascension;Gras-Cove;Inseln des Glücks
+Pondichery;Pondichery;Candia;Greenwich;Irrland
+PhilippiniÅ¿chen InÅ¿eln;Philippinischen Inseln;Ostund West-Indien;Grönland;Isle de France
+Neu-Seeland;Neu-Seeland;Nord-Amerika;gros Ventre-Bay;Isle de St. Pierre
+Doubtfull-Bay;Doubtfull-Bay;Brasilien;grosse Süd-Meer;Isle ronde
+SuÍ¤d-Meer;Süd-Meer;Gothenburg;Gros-Tahiti;Isles de fortune
+Calao;Calao;Neu-York;grünen Vorgebürges;Japan
+Peru;Peru;Africa;Guinea;Juan Fernandez
+indianiÅ¿chen Ocean;indianischen Ocean;Palma;Hamaneno;Kamtschatka
+Mauritius-InÅ¿el;Mauritius-Insel;glücklichen Inseln;Hawkes-Bay;Kanarischen Inseln
+Frankreich;Frankreich;Insulä¦ fortunatä¦;Hawkins's Maiden-Land;Kenwyn
+Cap der guten Hoff- nung;Cap der guten Hoffnung;Canaria;Herurna;Keppels-Eyland
+indianiÅ¿chen Ocean;indianischen Ocean;Kanarischen Inseln;Herurua;Kerguelens Inseln
+Van Diemens Land;Van Diemens Land;Rom;Hervey-;Ketten-Insel
+Neu-Seeland;Neu-Seeland;Mauretanien;Hervey-Eyland;Kew
+MadagaÅ¿car;Madagascar;Lancerota;hetta;Klein-Tahiti
+Manilla;Manilla;Castilien;Hiddia;la Encarnacion
+SuÍ¤d-Meer;Süd-Meer;Normandie;Hierusalem;Ladrones
+SuÍ¤dpol;Südpol;Portugall;Hippah-Felsen;Ladronischen Inseln
+SuÍ¤dpol;Südpol;Ferro;Holland;Lancerota
+SuÍ¤dpol;Südpol;Hudsons-Bay;Holz-Bay;l'Archipel des navigateurs
+England;England;Bonavista;Horn-Eyland;le Boudoir
+Cap;Cap;grünen Vorgebürges;Hottentot-Holland;Levante
+Plymouth;Plymouth;Mayo;Hout-Bay;Leyden
+Cap der guten Hoffnung;Cap der guten Hoffnung;San Jago;Huaheine;Lima
+Tahiti;Tahiti;Porto-Praya;Huahine;Lissabon
+Amerika;Amerika;Cap-Verdischen Inseln;Hudsons-Bay;London
+Neu-Albion;Neu-Albion;S. Jago;Ilha dos Codornizes;Long-Eyland
+VorgebuÍ¤rge der guten Hoffnung;Vorgebürge der guten Hoffnung;St. Jago;Ilhas desertas;Löwenberg
+Engelland;Engelland;Afrique;Indian Cove;Löwenkopf
+Fayal;Fayal;Ribeira grande;Indian-Cove;Luncheon-cove
+Berlin;Berlin;Fuogo;Indianer-Insel;Mäatea
+Irrland;Irrland;Ilha dos Codornizes;Indian-Eyland;Madagascar
+London;London;Wachtel-Insel;indianischen Ocean;Madera
+Engelland;Engelland;Porto Praya;Indian-Island;Madrid
+beyder Indien;beyder Indien;Arabien;Indien;Magellanische Meer-Enge
+Plymouth;Plymouth;Abyssinien;Indien-Cove;Maitea
+Madera;Madera;Norwegen;Indienund Shag-Cove;Manilla
+England;England;Guinea;Insel-Bay;Marien-Bay
+SheerneÃŸ;Sheerness;Süd Amerika;Inseln des Glücks;Marquesas
+Plymouth;Plymouth;Tafel-Bay;Insulä¦ fortunatä¦;Marseille
+London;London;Tafelberges;Irrland;Marvayles of Inde
+Plymouth;Plymouth;False-Bay;Isle de France;Maschiko
+Plymouth;Plymouth;Indien;Isle de St. Pierre;Matavaä
+Plymouth;Plymouth;Tafelberge;Isle ronde;Matavai
+Cornwall;Cornwall;Löwenberg;Isles de fortune;Matavai-Bay
+Poldyre;Poldyre;Löwenkopf;Japan;Matavai-Fluss
+Kenwyn;Kenwyn;Carlsberg;Juan Fernandez;Matogrosso
+Plymouth;Plymouth;Robben-Eyland;Kamtschatka;Mauretanien
+Plymouth;Plymouth;blauen Berge;Kanarischen Inseln;Mauritius
+Madera;Madera;Tiegerberge;Kap;Maurua
+VorgebuÍ¤rge der guten Hofnung;Vorgebürge der guten Hofnung;Hout-Bay;Kenwyn;Mayo
+Cap de la CirconciÅ¿ion;Cap de la Circoncision;Holz-Bay;Keppels-Eyland;Mexico
+Greenwich;Greenwich;Tafelbay;Kerguelens Inseln;Middelburgh
+SuÍ¤dpol;Südpol;Hottentot-Holland;Ketten-Insel;mittelländische Meer
+VorgebuÍ¤rge de la CirconciÅ¿ion;Vorgebürge de la Circoncision;Stellenbosch;Kew;mittelländischen und persischen See
+VorgebuÍ¤rge der guten Hofnung;Vorgebürge der guten Hofnung;Constantia;Klein-Tahiti;Molukkischen Inseln
+Spithead;Spithead;Rondebosch;la Encarnacion;Mopiha
+Portsmouth;Portsmouth;Niewlandt;Ladrones;Motu-Aro
+Cornwall;Cornwall;Alphen;Ladronischen Inseln;Motuh
+Drakeâ€™s Island;Drake's Island;Falsebay;Lancerota;N. Seeland
+Plymouth;Plymouth;China;Land;Neu Seeland
+Greenwich;Greenwich;Neuholland;l'Archipel des navigateurs;Neu-1773. October. Seeland
+Plymouth-Haven;Plymouth-Haven;Süd-See;le Boudoir;Neu-Albion
+Plymouth;Plymouth;rothen See;Levante;Neu-Britannien
+Drake-Eyland;Drake-Eyland;mittelländische Meer;Leyden;Neu-Caledonien
+Plymouth;Plymouth;Arabiä¦;Lima;Neuen-Hebriden
+Englands;Englands;Russland;Lissabon;Neu-Guinea
+EddiÅ¿tone;Eddistone;Isle de France;London;Neu-Holland
+VorgebuÍ¤rge Ortegal;Vorgebürge Ortegal;Bourbon;LongEyland;Neu-Irrland
+Spanien;Spanien;Schiras;Long-Eyland;Neu-Seeland
+Ortiguera;Ortiguera;Persien;Löwenberg;Neu-York
+Promontorium trileucum;Promontorium trileucum;Caps;Löwenkopf;Niewlandt
+Corunna;Corunna;Stellenbusch;Luncheon-cove;Nord-Amerika
+the Groyn;the Groyn;Leyden;Mäatea;Normandie
+MarÅ¿eille;Marseille;Kap;Mäatua;Norwegen
+Ferrol;Ferrol;Japan;Madagascar;O-Aitepieha
+Corunna;Corunna;Kew;Madera;O-Hamane
+Ferrol;Ferrol;Saldanha-Bay;Madrid;O-Pahutu
+FiniÅ¿terre;Finisterre;Oranien;Magellanische Meer-Enge;O-Parre
+Cap FiniÅ¿terre;Cap Finisterre;Asien;Magellanischen Meer-Enge;Opoa
+Porto-San- to;Porto-Santo;Senegal;Maitea;O-Raietea
+Madera;Madera;Brest;Manilla;Oranien
+Madera;Madera;Grönland;Maria-Bay;Orimatarra
+Ilhas de- Å¿ertas;Ilhas desertas;Cap Circoncision;Marien-Bay;Ortiguera
+DeÅ¿erteurs;Deserteurs;America;Marien-In-;Oruwherra
+Santa Cruz;Santa Cruz;Port Egmont's;Marquesas;OsnabruckEyland
+Madera;Madera;Südals Nordpol;Marseille;Ost-Bay
+Fun-;Fun-;Spitzbergen;Marvayles of Inde;Osterinsel
+chal;chal;Cap der guten Hofnung;Maschicko;Ostindien
+Funchal;Funchal;Inseln des Glücks;Maschiko;ostindischen Inseln
+Eng- land;England;Isles de fortune;Matavaä-;Ost und West-Indien
+Barbarey;Barbarey;Isle ronde;Matavai;O-Taha
+Levante;Levante;gros Ventre-Bay;Matavai-Bay;O-Tahiti
+St. Clara;St. Clara;Timor;Matavai-Fluss;o-Whai-urua
+Madera;Madera;Insel-Bay;Matavai-Flusses;O-Wharre
+Madera;Madera;Vorgebirge der guten Hoffnung;Matogrosso;pacifischen Oceans
+Eng- land;England;Süd-See-Inseln;Mauretanien;Palliser
+Madera;Madera;Färroer-Inseln;Mauritius;Palma
+Madera;Madera;Cap West;Mauritius-Insel;Panama
+Funchal;Funchal;südliche Ocean;Maurua;Paparra
+Maxico;Maxico;Dusky-Bay;Maxico;Paraguay
+MaÅ¿chiko;Maschiko;Dusky Bay;Mayo;Paris
+Funchal;Funchal;Pickersgill;Mexico;Parnassus
+Cal-;Cal-;Neu Seeland;Middelburgh;Parre
+hetta;hetta;Westindien;mittelländische Meer;Persien
+Maxico;Maxico;Seeland;mittelländischen und persischen See;Peru
+San Vincente;San Vincente;Thames;Molukkischen Inseln;Philippinischen Inseln
+Funchal;Funchal;Themse;Mopiha;Pic de la Boudeuse
+Greenwich;Greenwich;Point five finger;Motu Aro;Pickersgill
+Cal- hetta;Calhetta;Duck-Cove;Motu-Aro;Pickersgill-Haven
+Camara de Lobos;Camara de Lobos;Endten-Bucht;Motuh;Pitcairns Insel
+Ribeira braba;Ribeira braba;Indian-Island;N. Seeland;Plymouth
+Ponta de Sol;Ponta de Sol;Indianer-Insel;Neu-;Plymouth-Haven
+Funchal;Funchal;Taheiti;Neu Seeland;Point five finger
+MaÅ¿chicko;Maschicko;O-Taheiti;Neu-1773. October. Seeland;Point Jackson
+San Vincente;San Vincente;Tamai-poe-namu;Neu-Albion;Point Venus
+Santa Cruz;Santa Cruz;DuskyBay;Neu-Britannien;Point-Hicks
+MaÅ¿chiko;Maschiko;Cascade Cove;Neu-Brittannien;PointVenus
+Porto Santo;Porto Santo;Cascaden-Bucht;Neu-Caledonien;Point-Venus
+Salvages;Salvages;Anker-Insel;Neuen-Hebriden;Poldyre
+Ilhas deÅ¿ertas;Ilhas desertas;Luncheon-cove;NeuGuinea;Pondichery
+Madera;Madera;Berings-Eyland;Neu-Guinea;Ponta de Sol
+LiÅ¿Å¿abon;Lissabon;Kamtschatka;Neuholland;Port Egmont's
+Funchal;Funchal;van Diemens-Land;Neu-Holland;Port Surville
+Coimbra;Coimbra;Seehund-Inseln;Neu-Irrland;Port-Egmont
+Portugal;Portugal;Five-Finger-Land;NeuSeeland;Portland-Eyland
+Madera;Madera;NeuSeeland;Neu-Seeland;Porto-Praya
+Funchal;Funchal;Indian-Eyland;Neu-Seelands;Porto-Santo
+Madera;Madera;Cascade-Bucht;Neu-York;Portsmouth
+Madera;Madera;Pickersgill-Haven;Niewlandt;Portugal
+Funchal;Funchal;Long-Eyland;Nord-Amerika;Preussen
+Madera;Madera;blauen Bergen;Normandie;Promontorium trileucum
+Val;Val;Wet-Jacket-arm;Norwegen;Pylstaerts-Eyland
+DerbyÅ¿hire;Derbyshire;Charlotten-Sunde;nungsund Horn-Eylanden;Quiros
+AÅ¿cenÅ¿ion;Ascension;Charlotten-Sund;O-;Raietea
+Madera;Madera;Cap Foul-Wind;O-Aetipieha;Resolution-Eyland
+Madera;Madera;Rocks point;O-Aitepieha;Rheins
+Portugal;Portugal;Cap Farewell;O-Hamane;Ribeira braba
+Candia;Candia;Kerguelens Inseln;OneTree-hill;Ribeira grande
+London;London;Cap Stephens;One-Tree-hill;Robben-Eyland
+OÅ¿t- und WeÅ¿t-Indien;Ostund West-Indien;mittelländischen und persischen See;O-Pahutu;Rocks point
+Nord-Amerika;Nord-Amerika;westindischen Inseln;OParre;Rom
+BraÅ¿ilien;Brasilien;Strasse von Malacca;O-Parre;Rondebosch
+Europa;Europa;chinesischen See;Opoa;Rorotoa
+Ma- dera;Madera;Motu Aro;ORaietea;Röst
+Madera;Madera;Schip-Cove;O-Raietea;rothen See
+Salvages;Salvages;Adventure-Bay;Oranien;Rotterdam
+Ilhas deÅ¿ertas;Ilhas desertas;Friedrich Henrichs-Bay;Orimatarra;Russland
+Gothenburg;Gothenburg;Marien-In-;Ortiguera;Rüsten
+Neu-York;Neu-York;sel;Oruwherra;S. Carls Insel
+Amerika;Amerika;Schoutensund Van der LindsEylande;OsnabruckEyland;S. Jago
+Africa;Africa;Feuer-Bay;Ost-Bay;S. Lorenzo
+Madera;Madera;Point-Hicks;Oster-Eiland;Sagittaria
+VorgebuÍ¤rge der guten Hofnung;Vorgebürge der guten Hofnung;van Diemens-;OsterEyland;Saldanha-Bay
+Palma;Palma;Land;Oster-Eyland;Salomons-Inseln
+gluÍ¤cklichen InÅ¿eln;glücklichen Inseln;Rocks-;Oster-Eylands;Salvages
+InÅ¿ulÃ¦ fortunatÃ¦;Insulä¦ fortunatä¦;Point;Osterinsel;San Jago
+Canaria;Canaria;ShipCove;Ostindien;San Vincente
+KanariÅ¿chen InÅ¿eln;Kanarischen Inseln;Motu-Aro;ostindischen Inseln;Santa-Cruz
+Madera;Madera;Societäts-Inseln;Ostund West-Indien;Schip-Cove
+Porto-Santo;Porto-Santo;West-Bay;O-Taha;Schiras
+Rom;Rom;O-Taheitti;O-Taheiti;Schoutens und Van der Linds Eylande
+Mauretanien;Mauretanien;Ship-Cove;O-Taheitti;schwarzen Eap Cap
+Europa;Europa;Cap Koamaru;Otahiti;Schweden
+Lancerota;Lancerota;Ost-Bay;O-Tahiti;Seehund-Inseln
+CaÅ¿tilien;Castilien;Point Jackson;O-Tahiti-iti;Seeland
+Normandie;Normandie;Gras-Cove;O-Tahiti-Nue;SeillyEyland
+Kana- riÅ¿chen InÅ¿eln;Kanarischen Inseln;Canibal-Cove;OWhai-urua;Senegal
+Portugall;Portugall;Thira-Whittie;o-Whai-urua;Sevilla
+Ferro;Ferro;CharlottenSund;OWharre;Sheerness
+HudÅ¿ons-Bay;Hudsons-Bay;O-Tahiti;O-Wharre;Ship-Cove
+England;England;Cooks-Strasse;pacifischen Oceans;Societäts-Inseln
+Madera;Madera;Terra australis;Palliser;South Pacifik Ocean
+BonaviÅ¿ta;Bonavista;Ostindien;Palma;Southern Atlantic Ocean
+gruÍ¤nen VorgebuÍ¤rges;grünen Vorgebürges;Basheeâ€’Inseln;Panama;Spanien
+Mayo;Mayo;Neu-Brittannien;Paparra;Spithead
+San Jago;San Jago;Port Surville;Paraguay;Spitzbergen
+Porto-Praya;Porto-Praya;Callao;Paris;St. Clara
+Cap-VerdiÅ¿chen InÅ¿eln;Cap-Verdischen Inseln;Doubtles-Bay;Parnassus;St. Jago
+S. Jago;S. Jago;Pitcairns Insel;Parre;Stellenbosch
+Portugal;Portugal;stillen Meeres;Persien;Stellenbusch
+Mayo;Mayo;Resolution-Eyland;Peru;stille Meer
+S. Jago;S. Jago;DoubtfulEyland;Philippinischen Inseln;stillen Ocean
+St. Jago;St. Jago;Furneaux-Eyland;Pic de la Boudeuse;Stockholm
+gruÍ¤nen VorgebuÍ¤rges;grünen Vorgebürges;Adventure-Eyland;Pickersgill;Strasse von Malacca
+Porto-Praya;Porto-Praya;Chain-Island;Pickersgill-Haven;Süd Amerika
+LiÅ¿Å¿abon;Lissabon;Ketten-Insel;Pitcairns Eyland;Südals Nordpol
+S. Jago;S. Jago;OsnabruckEyland;Pitcairns Insel;Süd-Amerika
+Afrique;Afrique;Pic de la Boudeuse;Plymouth;Süd-Georgien
+Paris;Paris;le Boudoir;Plymouth-Haven;südliche Eismeer
+Africa;Africa;Mäatua;Point;südliche Ocean
+England;England;Maitea;Point five finger;Süd-Meer
+VorgebuÍ¤rge der guten Hofnung;Vorgebürge der guten Hofnung;Lima;Point Jackson;Südpol
+gruÍ¤nen VorgebuÍ¤rges;grünen Vorgebürges;south pacific Ocean;Point Venus;Südsee
+S. Jago;S. Jago;Georg des dritten Insel;Point-Hicks;Südsee-Inseln
+Ribeira grande;Ribeira grande;O-Aitepieha;PointVenus;Table-Cap
+Porto-Praya;Porto-Praya;Matavai-Bay;Point-Venus;Tabuaä
+St. Jago;St. Jago;Taä-ti;Poldyre;Tafel-Bay
+VorgebuÍ¤rge der guten Hofnung;Vorgebürge der guten Hofnung;Whaä-Urua;Pondichery;Tafelberge
+Cap;Cap;Teiarrabu;Ponta de Sol;Taha
+Fuogo;Fuogo;o-Whai-urua;Port Egmont's;Tahiti
+Ilha dos Codornizes;Ilha dos Codornizes;Aitepieha;Port Surville;Tamai-poe-namu
+Wachtel-InÅ¿el;Wachtel-Insel;Hierusalem;Port-Egmont;Tautihpa
+Porto Praya;Porto Praya;Marvayles of Inde;Portland-Eyland;Tedhuroa
+Arabien;Arabien;Whennua's;Porto Praya;Teiarrabu
+AbyÃŸinien;Abyssinien;OWhai-urua;Porto Santo;Teneriffa
+Cap;Cap;Süd America;Porto-Praya;Terra australis
+S. Jago;S. Jago;O-Tahiti-iti;Porto-Santo;Terra del Fuego
+S. Jago;S. Jago;Klein-Tahiti;Portsmouth;Thames
+Nor- wegen;Norwegen;Whai-Urua;Portugal;the Groyn
+England;England;O-Pahutu;Portugall;Themse
+Guinea;Guinea;Eimeo;Preussen;Thira-Whittie
+SuÍ¤d Amerika;Süd Amerika;Hiddia;Promontorium trileucum;Thüringen
+Africa;Africa;Point Venus;Pylstaerts-Eyland;Tiegerberge
+Tafel-Bay;Tafel-Bay;Matavai;Quiros;Tierra del Espiritu Santo
+Tafel-Bay;Tafel-Bay;One-Tree-hill;Raietea;Timor
+Tafelberges;Tafelberges;O-Parre;Resolution-Eyland;Tittahah
+Cap;Cap;O-Tahiti-Nue;Rheins;Tonga-Tabu
+FalÅ¿e-Bay;False-Bay;Gros-Tahiti;Ribeira braba;Uborruh
+Indien;Indien;OParre;Ribeira grande;Ulietea
+S. Jago;S. Jago;Aitepiha;Robben-Eyland;Upsal
+Funchal;Funchal;Parre;Rocks-;U-Uru
+Batavia;Batavia;Point-Venus;Rocks point;Val
+Europa;Europa;Matavaä-;Rom;Van Diemens Land
+Batavia;Batavia;Matavai-Fluss;Rondebosch;Van Diemens Rhede
+Cap;Cap;PointVenus;Rorotoa;Venezia
+Europa;Europa;Ulietea;Röst;Venus
+Indien;Indien;OneTree-hill;rothen See;Vera-Cruz
+Batavia;Batavia;Tedhuroa;Rotterdam;Vesuvs
+Europa;Europa;Matavai-Flusses;Russland;Vorgebirge der guten Hoffnung
+Holland;Holland;Tittahah;Rüsten;Vorgebürge de la Circoncision
+Holland;Holland;Paparra;S. Carls Insel;Vorgebürge Ortegal
+Frankreich;Frankreich;Attahuru;S. Jago;Wachtel-Insel
+FalÅ¿e-Bay;False-Bay;Bretane;S. Lorenzo;Waihu
+Tafel-Bay;Tafel-Bay;Britannien;Sagittaria;Wauwan
+Eu- ropa;Europa;O-Aetipieha;Saldanha-Bay;West-Bay
+Tafelberge;Tafelberge;Venus;Salomons Inseln;Westindien
+LoÍ¤wenberg;Löwenberg;Huaheine;Salomons-Inseln;westindischen Inseln
+LoÍ¤wenkopf;Löwenkopf;O-Wharre;Salvages;West-See
+Carlsberg;Carlsberg;ORaietea;San Jago;Wet-Jacket-arm
+Tafelberge;Tafelberge;O-Taha;San Vincente;Whai-Urua
+Robben-Eyland;Robben-Eyland;Borabora;Santa Cruz;Whennua
+blauen Berge;blauen Berge;Bolabola;Santa-Cruz;Whennua-aurah
+Tiegerberge;Tiegerberge;Mäatea;SchipCove;Wight
+Hout-Bay;Hout-Bay;OWharre;Schip-Cove;Woriea
+Holz-Bay;Holz-Bay;Huahine;Schiras;Worio
+Tafelbay;Tafelbay;Süd-SeeInseln;Schoutensund Van der LindsEylande;
+Cap;Cap;Raietea;schwarzen EapCap;
+VorgebuÍ¤rge der guten Hofnung;Vorgebürge der guten Hofnung;O-Raietea;Schweden;
+Hottentot-Hol- land;Hottentot-Holland;Hamaneno;Seehund-Inseln;
+StellenboÅ¿ch;Stellenbosch;Oruwherra;Seeland;
+ConÅ¿tantia;Constantia;Maurua;SeillyEyland;
+Tafelberges;Tafelberges;U-Uru;sel;
+RondeboÅ¿ch;Rondebosch;Opoa;Senegal;
+Niewlandt;Niewlandt;Taha;Sevilla;
+Cap;Cap;Mopiha;Sheerness;
+Alphen;Alphen;Whennua-aurah;ShipCove;
+FalÅ¿e- bay;Falsebay;SeillyEyland;Ship-Cove;
+DeutÅ¿chland;Deutschland;WhennuaAurah;Societäts Inseln;
+China;China;Adiha;Societäts theils auf den freundschaftlichen Inseln;
+Cap;Cap;Tautihpa;Societäts und auf den freundschaftlichen Inseln;
+Neuholland;Neuholland;Wauwan;Societäts und der freundschaftlichen Inseln;
+SuÍ¤d-See;Süd-See;Uborruh;Societäts und freundschaftlichen Inseln;
+Tafel-Bay;Tafel-Bay;Tabuaä;SocietätsInseln;
+Africa;Africa;Auhäiau;Societäts-Inseln;
+Afrika;Afrika;Rorotoa;south pacific Ocean;
+rothen See;rothen See;Whennua;South Pacifik Ocean;
+mittellaÍ¤ndiÅ¿che Meer;mittelländische Meer;Motuh;Southern Atlantic Ocean;
+Africa;Africa;Worio;Spanien;
+Ara- biÃ¦;Arabiä¦;Woriea;Spithead;
+Africa;Africa;Orimatarra;Spitzbergen;
+In- dien;Indien;Tubuaä-;St. Clara;
+Europa;Europa;O-Hamane;St. Jago;
+Indien;Indien;O-;Stellenbosch;
+Batavia;Batavia;Herurua;Stellenbusch;
+Batavia;Batavia;Herurna;stille Meer;
+Holland;Holland;A-Poto Poto;stillen Meer;
+Holland;Holland;Aetepieha;stillen Meere;
+RuÃŸland;Russland;Bristol;stillen Meeres;
+Cap;Cap;Hervey-Eyland;stillen Meers;
+Cap;Cap;Hervey-;stillen Ocean;
+Madagascar;Madagascar;Eyland;Stockholm;
+Cap;Cap;Middelburgh;Strasse von Malacca;
+Holland;Holland;Amsterdam;Süd America;
+Europa;Europa;Wight;Süd Amerika;
+FalÅ¿ebay;Falsebay;Societäts Inseln;Südals Nordpol;
+Batavia;Batavia;Ea-Uwhe;Süd-Amerika;
+Cap;Cap;Tonga-Tabu;Süd-Georgien;
+IÅ¿le de France;Isle de France;Tongatabu;südliche Eismeer;
+Bourbon;Bourbon;ostindischen Inseln;südliche Ocean;
+Holland;Holland;Vorgebürges der guten Hoffnung;SüdMeer;
+Tafelbay;Tafelbay;Paraguay;Süd-Meer;
+Cap;Cap;Südsee-Inseln;Südpol;
+Con- Å¿tantia;Constantia;Van Diemens Rhede;Südsee;
+Europa;Europa;VanDiemens Rhede;Süd-See;
+Schi- ras;Schiras;Maria-Bay;Südsee-Inseln;
+PerÅ¿ien;Persien;Schweden;Süd-SeeInseln;
+Europa;Europa;Stockholm;Süd-See-Inseln;
+ConÅ¿tantia;Constantia;Marien-Bay;Taä-ti;
+ConÅ¿tantia;Constantia;Cocos-Verräther und Horne-Inseln;Table-Cap;
+Frankreich;Frankreich;Horn-Eyland;Tabuaä;
+Cap;Cap;friendly Islands;Tafelbay;
+Cap;Cap;Cocos-Verräther-Hoff-;Tafel-Bay;
+Caps;Caps;nungsund Horn-Eylanden;Tafelberge;
+Cap;Cap;Anamocka;Tafelberges;
+Africa;Africa;Rotterdam;Taha;
+FalÅ¿e-Bay;False-Bay;Cocos-Hofnungsund Horn-Eyland;Taheiti;
+StellenbuÅ¿ch;Stellenbusch;Boseawen;Tahiti;
+Cap;Cap;Keppels-Eyland;Tamai-poe-namu;
+Leyden;Leyden;Cocos und Verräther-Insel;Tautihpa;
+Kap;Kap;l'Archipel des navigateurs;Tedhuroa;
+Batavia;Batavia;Societäts und auf den freundschaftlichen Inseln;Teiarrabu;
+Japan;Japan;Pylstaerts-Eyland;Teneriffa;
+Kew;Kew;Neu-1773. October. Seeland;Terra australis;
+Cap;Cap;Societäts theils auf den freundschaftlichen Inseln;Terra del Fuego;
+Cap;Cap;Table-Cap;Thames;
+England;England;Portland-Eyland;the Groyn;
+England;England;Hawkes-Bay;Themse;
+Africa;Africa;Cap Kidnappers;Thira-Whittie;
+Saldanha-Bay;Saldanha-Bay;schwarzen EapCap;Thüringen;
+Cap;Cap;Cap Palliser;Tiegerberge;
+Oranien;Oranien;CooksStrasse;Tierra del Espiritu Santo;
+Europa;Europa;Cap Tera Witti;Timor;
+Indien;Indien;Cap Tera-Witti;Tittahah;
+AÅ¿ien;Asien;EaheinoMauwe;Tongatabu;
+Europa;Europa;Cap Koa-Maruh;Tonga-Tabu;
+Cap;Cap;SchipCove;Tubuaä-;
+Cap;Cap;Hippah-Felsen;Uborruh;
+Africa;Africa;Cannibal-Cove;Ulietea;
+England;England;Port-Egmont;Upsal;
+Cap;Cap;Southern Atlantic Ocean;U-Uru;
+Cap;Cap;Indian-Cove;Val;
+Africa;Africa;Indienund Shag-Cove;van Diemens-;
+Cap;Cap;East-Bay;Van Diemens Land;
+Neu-Seeland;Neu-Seeland;LongEyland;Van Diemens Rhede;
+Tafelbay;Tafelbay;Cap Blake;van Diemens-Land;
+Cap;Cap;East Bay;VanDiemens Rhede;
+England;England;Admiralitäts-Bay;Venezia;
+Cap;Cap;Indian Cove;Venus;
+Cap;Cap;Bay of Plenty;Vera-Cruz;
+Cap;Cap;Thüringen;Vesuvs;
+Amerika;Amerika;Matogrosso;Vorgebirge der guten Hoffnung;
+Paris;Paris;Indien-Cove;Vorgebürge de la Circoncision;
+SuÍ¤dpol;Südpol;Cap Terawitti;Vorgebürge der guten Hoffnung;
+Europa;Europa;Palliser;Vorgebürge der guten Hofnung;
+Senegal;Senegal;Societäts und freundschaftlichen Inseln;Vorgebürge Ortegal;
+BreÅ¿t;Brest;Cadiz;Vorgebürges der guten Hoffnung;
+Paris;Paris;Vera-Cruz;Wachtel-Insel;
+Senegal;Senegal;Easteroder Oster-Eyland;Waihu;
+London;London;weisse Land;Wauwan;
+GroÍ¤nland;Grönland;Röst;weisse Land;
+Cap CirconciÅ¿ion;Cap Circoncision;Rüsten;West-Bay;
+Cap Horn;Cap Horn;Venezia;Westindien;
+VorgebuÍ¤rge der guten Hofnung;Vorgebürge der guten Hofnung;Osterinsel;westindischen Inseln;
+Neu-Seeland;Neu-Seeland;Easter-Eyland;West-See;
+America;America;S. Carls Insel;Wet-Jacket-arm;
+England;England;Teneriffa;Whaä-Urua;
+London;London;Oster-Eyland;Whai-Urua;
+Englands;Englands;Societäts und der freundschaftlichen Inseln;Whennua;
+Cap;Cap;Vesuvs;WhennuaAurah;
+Cap CirconciÅ¿ion;Cap Circoncision;Waihu;Whennua-aurah;
+Cap;Cap;West-See;Whennua's;
+Falklands-InÅ¿eln;Falklands-Inseln;S. Lorenzo;Wight;
+Port Eg- montâ€™s;Port Egmont's;OsterEyland;Woriea;
+SuÍ¤d- als Nord- pol;Südals Nordpol;Oster-Eylands;Worio;
+Spitzbergen;Spitzbergen;;;
+Cap der guten Hofnung;Cap der guten Hofnung;;;
+Frankreich;Frankreich;;;
+Cap;Cap;;;
+IÅ¿le de France;Isle de France;;;
+Mauritius;Mauritius;;;
+InÅ¿eln des GluÍ¤cks;Inseln des Glücks;;;
+IÅ¿les de fortune;Isles de fortune;;;
+IÅ¿le ronde;Isle ronde;;;
+gros Ventre-Bay;gros Ventre-Bay;;;
+IÅ¿le de France;Isle de France;;;
+Neuholland;Neuholland;;;
+Timor;Timor;;;
+Batavia;Batavia;;;
+IÅ¿le de France;Isle de France;;;
+Europa;Europa;;;
+Ferro;Ferro;;;
+IÅ¿le de France;Isle de France;;;
+Greenwich;Greenwich;;;
+Greenwich;Greenwich;;;
+Neu- Holland;NeuHolland;;;
+van Diemens Land;van Diemens Land;;;
+InÅ¿el-Bay;Insel-Bay;;;
+Neu-Seeland;Neu-Seeland;;;
+SuÍ¤d-See;Süd-See;;;
+PhilippiniÅ¿chen InÅ¿eln;Philippinischen Inseln;;;
+IÅ¿le de France;Isle de France;;;
+Greenwich;Greenwich;;;
+Vorgebirge der guten Hoffnung;Vorgebirge der guten Hoffnung;;;
+SuÍ¤d-See-InÅ¿eln;Süd-See-Inseln;;;
+Cap;Cap;;;
+Neu-Seeland;Neu-Seeland;;;
+FaÍ¤rroer-InÅ¿eln;Färroer-Inseln;;;
+Neu-Seeland;Neu-Seeland;;;
+Neu-Seeland;Neu-Seeland;;;
+Cap WeÅ¿t;Cap West;;;
+VorgebuÍ¤rge der guten Hofnung;Vorgebürge der guten Hofnung;;;
+Neu-Seeland;Neu-Seeland;;;
+Å¿uÍ¤dliche Ocean;südliche Ocean;;;
+Dusky-Bay;Dusky-Bay;;;
+Dusky Bay;Dusky Bay;;;
+Cap WeÅ¿t;Cap West;;;
+Neu-Seeland;Neu-Seeland;;;
+Europa;Europa;;;
+Pickersgill;Pickersgill;;;
+Neu Seeland;Neu Seeland;;;
+Dusky-Bay;Dusky-Bay;;;
+WeÅ¿t- indien;Westindien;;;
+Neu-;Neu-;;;
+Seeland;Seeland;;;
+Dusky-Bay;Dusky-Bay;;;
+Thames;Thames;;;
+ThemÅ¿e;Themse;;;
+Neu-Seeland;Neu-Seeland;;;
+VorgebuÍ¤rge der guten Hofnung;Vorgebürge der guten Hofnung;;;
+Point five finger;Point five finger;;;
+Dusky-Bay;Dusky-Bay;;;
+Duck-Cove;Duck-Cove;;;
+Endten-Bucht;Endten-Bucht;;;
+Indian-Island;Indian-Island;;;
+Indianer-InÅ¿el;Indianer-Insel;;;
+Taheiti;Taheiti;;;
+Neu-Seeland;Neu-Seeland;;;
+SuÍ¤d-See-InÅ¿eln;Süd-See-Inseln;;;
+Indianer-InÅ¿el;Indianer-Insel;;;
+O-Taheiti;O-Taheiti;;;
+Neu-Seeland;Neu-Seeland;;;
+DuÅ¿ky-Bay;Dusky-Bay;;;
+Alpen;Alpen;;;
+Tamai-poe-namu;Tamai-poe-namu;;;
+Neu-Seeland;Neu-Seeland;;;
+Dusky-Bay;Dusky-Bay;;;
+VorgebuÍ¤rge der guten Hofnung;Vorgebürge der guten Hofnung;;;
+Neu-Seeland;Neu-Seeland;;;
+SuÍ¤d-See;Süd-See;;;
+Cap;Cap;;;
+Neu-Seeland;Neu-Seeland;;;
+Dusky- Bay;DuskyBay;;;
+Cascade Cove;Cascade Cove;;;
+Cascaden-Bucht;Cascaden-Bucht;;;
+Neu-Seeland;Neu-Seeland;;;
+Anker-InÅ¿el;Anker-Insel;;;
+Luncheon-cove;Luncheon-cove;;;
+Berings-Eyland;Berings-Eyland;;;
+KamtÅ¿chatka;Kamtschatka;;;
+America;America;;;
+Africa;Africa;;;
+Neu-Seeland;Neu-Seeland;;;
+van Diemens-Land;van Diemens-Land;;;
+Dusky-Bay;Dusky-Bay;;;
+KamtÅ¿chatka;Kamtschatka;;;
+Seehund-InÅ¿eln;Seehund-Inseln;;;
+Anker-InÅ¿el;Anker-Insel;;;
+Indianer-InÅ¿el;Indianer-Insel;;;
+Neu Seeland;Neu Seeland;;;
+Neu-Seeland;Neu-Seeland;;;
+Neu-Seeland;Neu-Seeland;;;
+Five-Finger-Land;Five-Finger-Land;;;
+Neu-Seeland;Neu-Seeland;;;
+Dusky-Bay;Dusky-Bay;;;
+Dusky-Bay;Dusky-Bay;;;
+Neu-See- land;Neu-Seeland;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+Neu- Seeland;NeuSeeland;;;
+Alpen;Alpen;;;
+DuÅ¿ky-Bay;Dusky-Bay;;;
+Dusky-Bay;Dusky-Bay;;;
+Dusky-Bay;Dusky-Bay;;;
+Indianer-InÅ¿el;Indianer-Insel;;;
+Indian-Eyland;Indian-Eyland;;;
+Cascade-Bucht;Cascade-Bucht;;;
+Neu-Seeland;Neu-Seeland;;;
+Dusky-Bay;Dusky-Bay;;;
+Dusky-Bay;Dusky-Bay;;;
+Cascade-Bucht;Cascade-Bucht;;;
+VorgebuÍ¤rge der guten Hofnung;Vorgebürge der guten Hofnung;;;
+Neu-Seeland;Neu-Seeland;;;
+Neu-Seeland;Neu-Seeland;;;
+Europa;Europa;;;
+DuÅ¿ky-Bay;Dusky-Bay;;;
+Pickersgill-Haven;Pickersgill-Haven;;;
+Greenwich;Greenwich;;;
+VorgebuÍ¤rge der guten Hoffnung;Vorgebürge der guten Hoffnung;;;
+Dusky Bay;Dusky Bay;;;
+Cap;Cap;;;
+Long-Eyland;Long-Eyland;;;
+Long-Eyland;Long-Eyland;;;
+blauen Bergen;blauen Bergen;;;
+Wet-Jacket-arm;Wet-Jacket-arm;;;
+Dusky-Bay;Dusky-Bay;;;
+Dusky-Bay;Dusky-Bay;;;
+Dusky-Bay;Dusky-Bay;;;
+Charlotten-Sunde;Charlotten-Sunde;;;
+Neu-Seeland;Neu-Seeland;;;
+Dusky-Bay;Dusky-Bay;;;
+Dusky-Bay;Dusky-Bay;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Dusky-Bay;Dusky-Bay;;;
+Cap Foul-Wind;Cap Foul-Wind;;;
+Rocks point;Rocks point;;;
+Cap Farewell;Cap Farewell;;;
+Kergue- lens InÅ¿eln;Kerguelens Inseln;;;
+Cap Ste- phens;Cap Stephens;;;
+mittellaÍ¤ndiÅ¿chen und perÅ¿iÅ¿chen See;mittelländischen und persischen See;;;
+weÅ¿tindiÅ¿chen InÅ¿eln;westindischen Inseln;;;
+StraÃŸe von Malacca;Strasse von Malacca;;;
+chineÅ¿iÅ¿chen See;chinesischen See;;;
+London;London;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Motu Aro;Motu Aro;;;
+Schip-Cove;Schip-Cove;;;
+Greenwich;Greenwich;;;
+Van Diemens Land;Van Diemens Land;;;
+Neu-Holland;Neu-Holland;;;
+Adventure-Bay;Adventure-Bay;;;
+Friedrich Henrichs-Bay;Friedrich Henrichs-Bay;;;
+Africa;Africa;;;
+Amerika;Amerika;;;
+Adventure-Bay;Adventure-Bay;;;
+Marien-In-;Marien-In-;;;
+Å¿el;sel;;;
+Adventure-Bay;Adventure-Bay;;;
+Schoutens- und Van der Linds- Eylande;Schoutensund Van der LindsEylande;;;
+Feuer-Bay;Feuer-Bay;;;
+Van Diemens Land;Van Diemens Land;;;
+Neu- Holland;NeuHolland;;;
+Neu-Seeland;Neu-Seeland;;;
+Point-Hicks;Point-Hicks;;;
+Neu-Holland;Neu-Holland;;;
+van Diemens-;van Diemens-;;;
+Land;Land;;;
+Neu-Holland;Neu-Holland;;;
+Europa;Europa;;;
+van Diemens-Land;van Diemens-Land;;;
+Neu-Seeland;Neu-Seeland;;;
+Rocks-;Rocks-;;;
+Point;Point;;;
+Charlotten-Sunde;Charlotten-Sunde;;;
+Ship- Cove;ShipCove;;;
+Dusky-Bay;Dusky-Bay;;;
+Motu-Aro;Motu-Aro;;;
+Dusky-Bay;Dusky-Bay;;;
+Neu-Seeland;Neu-Seeland;;;
+Charlotten-Sund;Charlotten-Sund;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Dusky-Bay;Dusky-Bay;;;
+Dusky-Bay;Dusky-Bay;;;
+Dusky-Bay;Dusky-Bay;;;
+Neu-Seeland;Neu-Seeland;;;
+Neu-Seeland;Neu-Seeland;;;
+Dusky-Bay;Dusky-Bay;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Long-Eyland;Long-Eyland;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Neu-Seeland;Neu-Seeland;;;
+Neu-See- land;Neu-Seeland;;;
+Dusky- Bay;DuskyBay;;;
+WeÅ¿t-Bay;West-Bay;;;
+O-Taheitti;O-Taheitti;;;
+Neu-Seeland;Neu-Seeland;;;
+Ship-Cove;Ship-Cove;;;
+Neu-Seeland;Neu-Seeland;;;
+Dusky-Bay;Dusky-Bay;;;
+WeÅ¿t-Bay;West-Bay;;;
+Cap Koamaru;Cap Koamaru;;;
+OÅ¿t-Bay;Ost-Bay;;;
+Point JackÅ¿on;Point Jackson;;;
+Dusky-Bay;Dusky-Bay;;;
+Cap;Cap;;;
+SuÍ¤d-See;Süd-See;;;
+Dusky-Bay;Dusky-Bay;;;
+Dusky-Bay;Dusky-Bay;;;
+Long-Eyland;Long-Eyland;;;
+Long-Eyland;Long-Eyland;;;
+Motu-Aro;Motu-Aro;;;
+Ship-Cove;Ship-Cove;;;
+Dusky-Bay;Dusky-Bay;;;
+Charlotten-Sund;Charlotten-Sund;;;
+OÅ¿t-Bay;Ost-Bay;;;
+Gras-Cove;Gras-Cove;;;
+Canibal-Cove;Canibal-Cove;;;
+OÅ¿t-Bay;Ost-Bay;;;
+Gras-Cove;Gras-Cove;;;
+Long-Eyland;Long-Eyland;;;
+OÅ¿t-Bay;Ost-Bay;;;
+Thira-Whittie;Thira-Whittie;;;
+Neu-Seeland;Neu-Seeland;;;
+Charlotten- Sund;CharlottenSund;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Motu Aro;Motu Aro;;;
+england;england;;;
+Dusky-Bay;Dusky-Bay;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Ship-Cove;Ship-Cove;;;
+Charlotten-Sund;Charlotten-Sund;;;
+England;England;;;
+England;England;;;
+Neu-Seeland;Neu-Seeland;;;
+O-Tahiti;O-Tahiti;;;
+Cooks-StraÃŸe;Cooks-Strasse;;;
+SuÍ¤d-See;Süd-See;;;
+Terra auÅ¿tralis;Terra australis;;;
+Neu-Seeland;Neu-Seeland;;;
+Amerika;Amerika;;;
+Neu-Seeland;Neu-Seeland;;;
+Amerika;Amerika;;;
+OÅ¿tindien;Ostindien;;;
+SuÍ¤d- See;SüdSee;;;
+Neu-Seeland;Neu-Seeland;;;
+SuÍ¤d-See;Süd-See;;;
+Neu-Seeland;Neu-Seeland;;;
+Cap;Cap;;;
+Neu-Seeland;Neu-Seeland;;;
+Neu-Seeland;Neu-Seeland;;;
+Neu-Seeland;Neu-Seeland;;;
+O-Tahiti;O-Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Neu- Seeland;NeuSeeland;;;
+Neu- Seeland;NeuSeeland;;;
+Pondichery;Pondichery;;;
+StraÃŸe von Malacca;Strasse von Malacca;;;
+BaÅ¿heeâ€’InÅ¿eln;Basheeâ€’Inseln;;;
+Manilla;Manilla;;;
+Neu-Brittannien;Neu-Brittannien;;;
+Port Surville;Port Surville;;;
+Neu-Seeland;Neu-Seeland;;;
+Callao;Callao;;;
+SuÍ¤d-Amerika;Süd-Amerika;;;
+Frankreich;Frankreich;;;
+Doubtles-Bay;Doubtles-Bay;;;
+Neu- Seeland;NeuSeeland;;;
+Doubtles-Bay;Doubtles-Bay;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Doubtles-Bay;Doubtles-Bay;;;
+InÅ¿el-Bay;Insel-Bay;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Neu-Seeland;Neu-Seeland;;;
+Vorgebirge der guten Hoffnung;Vorgebirge der guten Hoffnung;;;
+Neu-Seeland;Neu-Seeland;;;
+SuÍ¤d-See;Süd-See;;;
+Cap;Cap;;;
+Pitcairns InÅ¿el;Pitcairns Insel;;;
+Cap;Cap;;;
+Madera;Madera;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Å¿tillen Meeres;stillen Meeres;;;
+ReÅ¿olution-Eyland;Resolution-Eyland;;;
+Greenwich;Greenwich;;;
+Doubtful- Eyland;DoubtfulEyland;;;
+Furneaux-Eyland;Furneaux-Eyland;;;
+Adventure-Eyland;Adventure-Eyland;;;
+Chain-IÅ¿land;Chain-Island;;;
+Ketten-InÅ¿el;Ketten-Insel;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+SuÍ¤d- See;SüdSee;;;
+Osnabruck- Eyland;OsnabruckEyland;;;
+Pic de la BoudeuÅ¿e;Pic de la Boudeuse;;;
+le Boudoir;le Boudoir;;;
+MaÍ¤atua;Mäatua;;;
+Maitea;Maitea;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+O-Tahiti;O-Tahiti;;;
+O-Tahiti;O-Tahiti;;;
+Lima;Lima;;;
+Peru;Peru;;;
+Sagittaria;Sagittaria;;;
+Å¿outh pacific Ocean;south pacific Ocean;;;
+O-Ta- hiti;O-Tahiti;;;
+Georg des dritten InÅ¿el;Georg des dritten Insel;;;
+O-Aitepieha;O-Aitepieha;;;
+O-Tahiti;O-Tahiti;;;
+Matavai-Bay;Matavai-Bay;;;
+O-Tahiti;O-Tahiti;;;
+TaÃ¯ti;Taä-ti;;;
+Tahiti;Tahiti;;;
+O-Tahiti;O-Tahiti;;;
+WhaÃ¯-Urua;Whaä-Urua;;;
+Teiarrabu;Teiarrabu;;;
+O-Aitepieha;O-Aitepieha;;;
+O- Tahiti;OTahiti;;;
+Teiarrabu;Teiarrabu;;;
+Teiarrabu;Teiarrabu;;;
+o-Whai-urua;o-Whai-urua;;;
+London;London;;;
+Europa;Europa;;;
+England;England;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+China;China;;;
+Aitepieha;Aitepieha;;;
+Indien;Indien;;;
+HieruÅ¿alem;Hierusalem;;;
+Marvayles of Inde;Marvayles of Inde;;;
+Mata- vai-Bay;Matavai-Bay;;;
+Tahiti;Tahiti;;;
+Teiar- rabu;Teiarrabu;;;
+Tahiti;Tahiti;;;
+O-Tahiti;O-Tahiti;;;
+Whennuaâ€™s;Whennua's;;;
+O- Whai-urua;OWhai-urua;;;
+SuÍ¤d America;Süd America;;;
+Tahiti;Tahiti;;;
+SuÍ¤d-See-InÅ¿eln;Süd-See-Inseln;;;
+Europa;Europa;;;
+O-Tahiti-iti;O-Tahiti-iti;;;
+Klein-Tahiti;Klein-Tahiti;;;
+Teiar- rabu;Teiarrabu;;;
+Tahiti;Tahiti;;;
+Teiarrabu;Teiarrabu;;;
+Whai-Urua;Whai-Urua;;;
+O-Pahutu;O-Pahutu;;;
+Callao;Callao;;;
+Peru;Peru;;;
+Tahiti;Tahiti;;;
+Neu-Seeland;Neu-Seeland;;;
+O-Tahiti;O-Tahiti;;;
+Neu-Seeland;Neu-Seeland;;;
+Tahiti;Tahiti;;;
+Europa;Europa;;;
+Tahiti;Tahiti;;;
+England;England;;;
+London;London;;;
+O-Tahiti;O-Tahiti;;;
+Eimeo;Eimeo;;;
+Aitepieha;Aitepieha;;;
+Aitepieha;Aitepieha;;;
+Aitepieha;Aitepieha;;;
+Hiddia;Hiddia;;;
+Point Venus;Point Venus;;;
+Matavai;Matavai;;;
+Teiarrabu;Teiarrabu;;;
+One-Tree-hill;One-Tree-hill;;;
+O-Parre;O-Parre;;;
+O-Tahiti-Nue;O-Tahiti-Nue;;;
+Gros-Tahiti;Gros-Tahiti;;;
+Aitepieha;Aitepieha;;;
+America;America;;;
+Quiros;Quiros;;;
+Neu-Seeland;Neu-Seeland;;;
+SuÍ¤d-See;Süd-See;;;
+Matavai-Bay;Matavai-Bay;;;
+Matavai-Bay;Matavai-Bay;;;
+O- Parre;OParre;;;
+Aitepiha;Aitepiha;;;
+O- Tahiti;OTahiti;;;
+O-Tahiti;O-Tahiti;;;
+Tahiti;Tahiti;;;
+O-Parre;O-Parre;;;
+Point Venus;Point Venus;;;
+Aitepiha;Aitepiha;;;
+Parre;Parre;;;
+O-Parre;O-Parre;;;
+Point-Venus;Point-Venus;;;
+Tahiti;Tahiti;;;
+MatavaÃ¯;Matavaä-;;;
+Tahiti;Tahiti;;;
+Spithead;Spithead;;;
+Europa;Europa;;;
+O-Parre;O-Parre;;;
+Matavai-FluÃŸ;Matavai-Fluss;;;
+Point- Venus;PointVenus;;;
+Aitepieha;Aitepieha;;;
+Parre;Parre;;;
+Ulietea;Ulietea;;;
+One- Tree-hill;OneTree-hill;;;
+O-Parre;O-Parre;;;
+OÅ¿tindien;Ostindien;;;
+Matavai;Matavai;;;
+O-Tahiti;O-Tahiti;;;
+Tedhuroa;Tedhuroa;;;
+Tedhuroa;Tedhuroa;;;
+Matavai;Matavai;;;
+Matavai-FluÅ¿Å¿es;Matavai-Flusses;;;
+China;China;;;
+China;China;;;
+Cap;Cap;;;
+Parre;Parre;;;
+Tittahah;Tittahah;;;
+Matavai-Bay;Matavai-Bay;;;
+Paparra;Paparra;;;
+Tahiti;Tahiti;;;
+Pa- parra;Paparra;;;
+Paparra;Paparra;;;
+Attahuru;Attahuru;;;
+Matavai;Matavai;;;
+Point Venus;Point Venus;;;
+Tahiti;Tahiti;;;
+Bretane;Bretane;;;
+Britannien;Britannien;;;
+Tahiti;Tahiti;;;
+O-Aetipieha;O-Aetipieha;;;
+Greenwich;Greenwich;;;
+Venus;Venus;;;
+O-Tahiti;O-Tahiti;;;
+England;England;;;
+Ta- hiti;Tahiti;;;
+Tahiti;Tahiti;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+SocietaÍ¤ts- InÅ¿eln;SocietätsInseln;;;
+Tahiti;Tahiti;;;
+Huaheine;Huaheine;;;
+Tahiti;Tahiti;;;
+Matavai-Bay;Matavai-Bay;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+Hua- heine;Huaheine;;;
+O-Wharre;O-Wharre;;;
+Hua- heine;Huaheine;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+O- Raietea;ORaietea;;;
+Ulietea;Ulietea;;;
+O-Taha;O-Taha;;;
+Borabora;Borabora;;;
+Bolabola;Bolabola;;;
+MaÍ¤atea;Mäatea;;;
+O- Wharre;OWharre;;;
+Teiarrabu;Teiarrabu;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+Huaheine;Huaheine;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+Huaheine;Huaheine;;;
+Tahiti;Tahiti;;;
+Huahine;Huahine;;;
+Huaheine;Huaheine;;;
+Huaheine;Huaheine;;;
+Europa;Europa;;;
+Tahiti;Tahiti;;;
+Huaheine;Huaheine;;;
+Tahiti;Tahiti;;;
+O-Tahiti;O-Tahiti;;;
+OÅ¿tindien;Ostindien;;;
+SuÍ¤d-See- InÅ¿eln;Süd-SeeInseln;;;
+England;England;;;
+England;England;;;
+Raietea;Raietea;;;
+England;England;;;
+Vorgebirge der guten Hoffnung;Vorgebirge der guten Hoffnung;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+England;England;;;
+Huaheine;Huaheine;;;
+Ulietea;Ulietea;;;
+Socie- taÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+O-Raietea;O-Raietea;;;
+Hamaneno;Hamaneno;;;
+Tahiti;Tahiti;;;
+Huaheine;Huaheine;;;
+Huaheine;Huaheine;;;
+Oruwherra;Oruwherra;;;
+Borabora;Borabora;;;
+Bolabola;Bolabola;;;
+Bo- rabora;Borabora;;;
+SuÍ¤d-See;Süd-See;;;
+Oruwherra;Oruwherra;;;
+Tahiti;Tahiti;;;
+Borabora;Borabora;;;
+Raietea;Raietea;;;
+Borabora;Borabora;;;
+Raietea;Raietea;;;
+O-Taha;O-Taha;;;
+Maurua;Maurua;;;
+Raietea;Raietea;;;
+U-Uru;U-Uru;;;
+Opoa;Opoa;;;
+Taha;Taha;;;
+Huaheine;Huaheine;;;
+Tahiti;Tahiti;;;
+Raietea;Raietea;;;
+England;England;;;
+England;England;;;
+Borabora;Borabora;;;
+Huaheine;Huaheine;;;
+Mopiha;Mopiha;;;
+Whennua-aurah;Whennua-aurah;;;
+Seilly- Eyland;SeillyEyland;;;
+Tahiti;Tahiti;;;
+Mopiha;Mopiha;;;
+Whennua- Aurah;WhennuaAurah;;;
+Adiha;Adiha;;;
+Tautihpa;Tautihpa;;;
+Wauwan;Wauwan;;;
+Uborruh;Uborruh;;;
+TabuaÃ¯;Tabuaä;;;
+AuhaÍ¤iau;Auhäiau;;;
+Rorotoa;Rorotoa;;;
+Adiha;Adiha;;;
+Uborruh;Uborruh;;;
+Whennua;Whennua;;;
+Motuh;Motuh;;;
+Worio;Worio;;;
+Woriea;Woriea;;;
+Orimatarra;Orimatarra;;;
+Tahiti;Tahiti;;;
+Uborruh;Uborruh;;;
+TubuaÃ¯;Tubuaä-;;;
+SuÍ¤d-See;Süd-See;;;
+England;England;;;
+U-Uru;U-Uru;;;
+Raietea;Raietea;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+O-Taha;O-Taha;;;
+Raietea;Raietea;;;
+Huaheine;Huaheine;;;
+O-Taha;O-Taha;;;
+England;England;;;
+England;England;;;
+O-Taha;O-Taha;;;
+O-Hamane;O-Hamane;;;
+Tahiti;Tahiti;;;
+Raietea;Raietea;;;
+Huaheine;Huaheine;;;
+Taha;Taha;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Tahiti;Tahiti;;;
+O-Taha;O-Taha;;;
+Raietea;Raietea;;;
+Huaheine;Huaheine;;;
+O-Hamane;O-Hamane;;;
+Borabora;Borabora;;;
+O-;O-;;;
+Herurua;Herurua;;;
+Herurna;Herurna;;;
+A-Poto Poto;A-Poto Poto;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Levante;Levante;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+freundÅ¿chaft- lichen InÅ¿eln;freundschaftlichen Inseln;;;
+Hamaneno;Hamaneno;;;
+Raietea;Raietea;;;
+Taha;Taha;;;
+Borabora;Borabora;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Aetepieha;Aetepieha;;;
+England;England;;;
+Borabora;Borabora;;;
+Taha;Taha;;;
+Raietea;Raietea;;;
+Eimeo;Eimeo;;;
+Maurua;Maurua;;;
+Raietea;Raietea;;;
+BriÅ¿tol;Bristol;;;
+Hervey-Eyland;Hervey-Eyland;;;
+Hervey-;Hervey-;;;
+Eyland;Eyland;;;
+Greenwich;Greenwich;;;
+Middelburgh;Middelburgh;;;
+AmÅ¿terdam;Amsterdam;;;
+Middelburgh;Middelburgh;;;
+Wight;Wight;;;
+England;England;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts InÅ¿eln;Societäts Inseln;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Tahiti;Tahiti;;;
+Mid- delburgh;Middelburgh;;;
+Ea-Uwhe;Ea-Uwhe;;;
+AmÅ¿terdam;Amsterdam;;;
+Tonga-Tabu;Tonga-Tabu;;;
+AmÅ¿terdam;Amsterdam;;;
+Ea-Uwhe;Ea-Uwhe;;;
+Tongatabu;Tongatabu;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+Ea-Uwhe;Ea-Uwhe;;;
+England;England;;;
+WeÅ¿tindien;Westindien;;;
+Batavia;Batavia;;;
+oÅ¿tindiÅ¿chen InÅ¿eln;ostindischen Inseln;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Tahiti;Tahiti;;;
+Afrika;Afrika;;;
+VorgebuÍ¤rges der guten Hoffnung;Vorgebürges der guten Hoffnung;;;
+Paraguay;Paraguay;;;
+Californien;Californien;;;
+Japan;Japan;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+SuÍ¤dÅ¿ee-InÅ¿eln;Südsee-Inseln;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Raietea;Raietea;;;
+Borabora;Borabora;;;
+AmÅ¿terdam;Amsterdam;;;
+Ton- gatabu;Tongatabu;;;
+Ea-Uwhe;Ea-Uwhe;;;
+Van Diemens Rhede;Van Diemens Rhede;;;
+Ea-Uwhe;Ea-Uwhe;;;
+Ea-Uwhe;Ea-Uwhe;;;
+Ea-Uwhe;Ea-Uwhe;;;
+Borabora;Borabora;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Van- Diemens Rhede;VanDiemens Rhede;;;
+Ea-Uwhe;Ea-Uwhe;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Ea-Uwhe;Ea-Uwhe;;;
+Ea-Uwhe;Ea-Uwhe;;;
+Tonga-Tabu;Tonga-Tabu;;;
+SuÍ¤d-See;Süd-See;;;
+Tahiti;Tahiti;;;
+Ea-Uwhe;Ea-Uwhe;;;
+Maria-Bay;Maria-Bay;;;
+Schweden;Schweden;;;
+Stockholm;Stockholm;;;
+Ta- hiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Ea-Uwhe;Ea-Uwhe;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Tahiti;Tahiti;;;
+Indien;Indien;;;
+Europa;Europa;;;
+Huaheine;Huaheine;;;
+Huaheine;Huaheine;;;
+Tahiti;Tahiti;;;
+Neu-Seeland;Neu-Seeland;;;
+Tongatabu;Tongatabu;;;
+Marien-Bay;Marien-Bay;;;
+Tongatabu;Tongatabu;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Europa;Europa;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Marien-Bay;Marien-Bay;;;
+Neu-Seeland;Neu-Seeland;;;
+Cocos-VerraÍ¤ther- und Horne-InÅ¿eln;Cocos-Verräther und Horne-Inseln;;;
+South Pacific Ocean;South Pacific Ocean;;;
+London;London;;;
+Tahiti;Tahiti;;;
+Horn-Eyland;Horn-Eyland;;;
+freundÅ¿chaftlichen InÅ¿eln;freundschaftlichen Inseln;;;
+friendly IÅ¿lands;friendly Islands;;;
+Cocos-VerraÍ¤ther-Hoff-;Cocos-Verräther-Hoff-;;;
+nungs- und Horn-Eylanden;nungsund Horn-Eylanden;;;
+Horn-Eyland;Horn-Eyland;;;
+Tonga-Tabu;Tonga-Tabu;;;
+Anamocka;Anamocka;;;
+AmÅ¿terdam;Amsterdam;;;
+Rotterdam;Rotterdam;;;
+Cocos-Hofnungs- und Horn-Eyland;Cocos-Hofnungsund Horn-Eyland;;;
+Boseawen;Boseawen;;;
+Keppels-Eyland;Keppels-Eyland;;;
+Cocos- und VerraÍ¤ther-InÅ¿el;Cocos und Verräther-Insel;;;
+lâ€™Archipel des navigateurs;l'Archipel des navigateurs;;;
+AmÅ¿terdam;Amsterdam;;;
+Horn-Eyland;Horn-Eyland;;;
+Tongatabu;Tongatabu;;;
+Ea-Uwhe;Ea-Uwhe;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Horn-Eyland;Horn-Eyland;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+freund- Å¿chaftlichen InÅ¿eln;freundschaftlichen Inseln;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Tongata- bu;Tongatabu;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Tongatabu;Tongatabu;;;
+Tahiti;Tahiti;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+Tongatabu;Tongatabu;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts- und auf den freundÅ¿chaftlichen InÅ¿eln;Societäts und auf den freundschaftlichen Inseln;;;
+Tongatabu;Tongatabu;;;
+Tahiti;Tahiti;;;
+Marien-Bay;Marien-Bay;;;
+Horn-Eyland;Horn-Eyland;;;
+PylÅ¿taerts-Eyland;Pylstaerts-Eyland;;;
+Neu-1773. October. Seeland;Neu-1773. October. Seeland;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+SocietaÍ¤ts- theils auf den freundÅ¿chaftlichen InÅ¿eln;Societäts theils auf den freundschaftlichen Inseln;;;
+Neu-Seeland;Neu-Seeland;;;
+freundÅ¿chaftlichen InÅ¿eln;freundschaftlichen Inseln;;;
+Neu- Seeland;NeuSeeland;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Huaheine;Huaheine;;;
+Neu-Seeland;Neu-Seeland;;;
+Table-Cap;Table-Cap;;;
+Portland-Eyland;Portland-Eyland;;;
+Neu-Seeland;Neu-Seeland;;;
+Hawkes-Bay;Hawkes-Bay;;;
+Cap Kidnappers;Cap Kidnappers;;;
+Å¿chwarzen EapCap;schwarzen EapCap;;;
+Bo- rabora;Borabora;;;
+Cap PalliÅ¿er;Cap Palliser;;;
+Cooks- StraÃŸe;CooksStrasse;;;
+Cooks-StraÃŸe;Cooks-Strasse;;;
+Cap Tera Witti;Cap Tera Witti;;;
+Cap Tera-Witti;Cap Tera-Witti;;;
+Eaheino- Mauwe;EaheinoMauwe;;;
+Cap Koa-Maruh;Cap Koa-Maruh;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Schip- Cove;SchipCove;;;
+Gras-Cove;Gras-Cove;;;
+Ship-Cove;Ship-Cove;;;
+Hippah-FelÅ¿en;Hippah-Felsen;;;
+Motu-Aro;Motu-Aro;;;
+Neu-Seeland;Neu-Seeland;;;
+Tahiti;Tahiti;;;
+Cannibal-Cove;Cannibal-Cove;;;
+Ship-Cove;Ship-Cove;;;
+SuÍ¤dpol;Südpol;;;
+Engelland;Engelland;;;
+Port-Egmont;Port-Egmont;;;
+Falklands-InÅ¿eln;Falklands-Inseln;;;
+Southern Atlantic Ocean;Southern Atlantic Ocean;;;
+Ship-Cove;Ship-Cove;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Neu-Seeland;Neu-Seeland;;;
+Falklands-InÅ¿eln;Falklands-Inseln;;;
+Neu-Seeland;Neu-Seeland;;;
+Falklands-InÅ¿eln;Falklands-Inseln;;;
+Neu-Seeland;Neu-Seeland;;;
+Falklands-InÅ¿eln;Falklands-Inseln;;;
+Indian-Cove;Indian-Cove;;;
+Indien- und Shag-Cove;Indienund Shag-Cove;;;
+Dusky-Bay;Dusky-Bay;;;
+Neu-Seeland;Neu-Seeland;;;
+EaÅ¿t-Bay;East-Bay;;;
+Cap Tera-witti;Cap Tera-witti;;;
+Long- Eyland;LongEyland;;;
+Dusky-Bay;Dusky-Bay;;;
+Borabora;Borabora;;;
+Neu- Seeland;NeuSeeland;;;
+Cap Blake;Cap Blake;;;
+freundÅ¿chaftlichen In- Å¿eln;freundschaftlichen Inseln;;;
+Neu-Seeland;Neu-Seeland;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Greenwich;Greenwich;;;
+EaÅ¿t Bay;East Bay;;;
+England;England;;;
+AdmiralitaÍ¤ts-Bay;Admiralitäts-Bay;;;
+WeÅ¿t-Bay;West-Bay;;;
+Neu-Seeland;Neu-Seeland;;;
+Indian-Cove;Indian-Cove;;;
+Charlotten-Sund;Charlotten-Sund;;;
+Neu-Seeland;Neu-Seeland;;;
+Motu-Aro;Motu-Aro;;;
+Indian Cove;Indian Cove;;;
+England;England;;;
+London;London;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Neu-Seeland;Neu-Seeland;;;
+Bay of Plenty;Bay of Plenty;;;
+DeutÅ¿chland;Deutschland;;;
+ThuÍ¤- ringen;Thüringen;;;
+MatogroÃŸo;Matogrosso;;;
+BraÅ¿ilien;Brasilien;;;
+London;London;;;
+Amerika;Amerika;;;
+Tahiti;Tahiti;;;
+Neu-Seeland;Neu-Seeland;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Indien-Cove;Indien-Cove;;;
+Motu-Aro;Motu-Aro;;;
+Motu-Aro;Motu-Aro;;;
+Long-Eyland;Long-Eyland;;;
+Cap Terawitti;Cap Terawitti;;;
+Cap Terawitti;Cap Terawitti;;;
+PalliÅ¿er;Palliser;;;
+Neu-Seeland;Neu-Seeland;;;
+Indien;Indien;;;
+SuÍ¤d-See;Süd-See;;;
+Cap PalliÅ¿er;Cap Palliser;;;
+Neu-Seeland;Neu-Seeland;;;
+VorgebuÍ¤rge der guten Hoffnung;Vorgebürge der guten Hoffnung;;;
+Dusky-Bay;Dusky-Bay;;;
+Neu-Seeland;Neu-Seeland;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts- und freundÅ¿chaftlichen In- Å¿eln;Societäts und freundschaftlichen Inseln;;;
+Charlotten-Sund;Charlotten-Sund;;;
+SuÍ¤dpol;Südpol;;;
+VorgebuÍ¤rge der guten Hoffnung;Vorgebürge der guten Hoffnung;;;
+Californien;Californien;;;
+Cadiz;Cadiz;;;
+Vera-Cruz;Vera-Cruz;;;
+Mexico;Mexico;;;
+Neu-Seeland;Neu-Seeland;;;
+SuÍ¤dpol;Südpol;;;
+England;England;;;
+Neu-Seeland;Neu-Seeland;;;
+EaÅ¿ter- oder OÅ¿ter-Eyland;Easteroder Oster-Eyland;;;
+Neu-Seeland;Neu-Seeland;;;
+London;London;;;
+England;England;;;
+London;London;;;
+America;America;;;
+Californien;Californien;;;
+Cap;Cap;;;
+SuÍ¤dpol;Südpol;;;
+Tahiti;Tahiti;;;
+Neu-Seeland;Neu-Seeland;;;
+Tahiti;Tahiti;;;
+weiÃŸe Land;weisse Land;;;
+Whennua;Whennua;;;
+England;England;;;
+Tongatabu;Tongatabu;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+VorgebuÍ¤rge der guten Hoffnung;Vorgebürge der guten Hoffnung;;;
+SocietaÍ¤ts- und freundÅ¿chaftlichen InÅ¿eln;Societäts und freundschaftlichen Inseln;;;
+Neu-Seeland;Neu-Seeland;;;
+Eu- ropa;Europa;;;
+RoÍ¤Å¿t;Röst;;;
+RuÍ¤Å¿ten;Rüsten;;;
+Norwegen;Norwegen;;;
+Venezia;Venezia;;;
+Neu-Seeland;Neu-Seeland;;;
+Tahiti;Tahiti;;;
+SuÍ¤d-See;Süd-See;;;
+Europa;Europa;;;
+England;England;;;
+SuÍ¤d-See;Süd-See;;;
+SuÍ¤d-See;Süd-See;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+Neu-Seeland;Neu-Seeland;;;
+SuÍ¤dpol;Südpol;;;
+Å¿tillen Meers;stillen Meers;;;
+Cap Horn;Cap Horn;;;
+Greenwich;Greenwich;;;
+London;London;;;
+OÅ¿terinÅ¿el;Osterinsel;;;
+EaÅ¿ter-Eyland;Easter-Eyland;;;
+S. Carls InÅ¿el;S. Carls Insel;;;
+SuÍ¤d-See;Süd-See;;;
+Juan Fernan- dez;Juan Fernandez;;;
+Neu-Seeland;Neu-Seeland;;;
+England;England;;;
+GoÍ¤ttin- gen;Göttingen;;;
+EaÅ¿ter- oder OÅ¿ter-Eyland;Easteroder Oster-Eyland;;;
+Batavia;Batavia;;;
+Teneriffa;Teneriffa;;;
+London;London;;;
+Greenwich;Greenwich;;;
+OÅ¿ter-Eyland;Oster-Eyland;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+SocietaÍ¤ts- und der freundÅ¿chaftlichen In- Å¿eln;Societäts und der freundschaftlichen Inseln;;;
+Tahiti;Tahiti;;;
+Neu-Seeland;Neu-Seeland;;;
+freundÅ¿chaftlichen InÅ¿eln;freundschaftlichen Inseln;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+SocietaÍ¤ts- und freundÅ¿chaftlichen InÅ¿eln;Societäts und freundschaftlichen Inseln;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+Tahiti;Tahiti;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+Tahiti;Tahiti;;;
+SuÍ¤dÅ¿ee-InÅ¿eln;Südsee-Inseln;;;
+VeÅ¿uvs;Vesuvs;;;
+SuÍ¤dÅ¿ee;Südsee;;;
+Tahiti;Tahiti;;;
+Neu-Seeland;Neu-Seeland;;;
+SuÍ¤dÅ¿ee-InÅ¿eln;Südsee-Inseln;;;
+Tahiti;Tahiti;;;
+Neu-Seeland;Neu-Seeland;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts- und freundÅ¿chaftli- chen InÅ¿eln;Societäts und freundschaftlichen Inseln;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+Tahiti;Tahiti;;;
+OÅ¿ter-Eyland;Oster-Eyland;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+OÅ¿ter-Ey- land;Oster-Eyland;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+Neu-Seeland;Neu-Seeland;;;
+freundÅ¿chaftli- chen InÅ¿eln;freundschaftlichen Inseln;;;
+Tahiti;Tahiti;;;
+SocietaÍ¤ts-InÅ¿eln;Societäts-Inseln;;;
+freundÅ¿chaftlichen InÅ¿eln;freundschaftlichen Inseln;;;
+Waihu;Waihu;;;
+Waihu;Waihu;;;
+WeÅ¿t-See;West-See;;;
+S. Lorenzo;S. Lorenzo;;;
+OÅ¿ter- Eyland;OsterEyland;;;
+OÅ¿ter-Eyland;Oster-Eyland;;;
+Neu-Seeland;Neu-Seeland;;;
+Tahiti;Tahiti;;;
+freundÅ¿chaftlichen InÅ¿eln;freundschaftlichen Inseln;;;
+OÅ¿ter-Ey- land;Oster-Eyland;;;
+SuÍ¤dÅ¿ee-InÅ¿eln;Südsee-Inseln;;;
+OÅ¿ter-Eyland;Oster-Eyland;;;
+Waihu;Waihu;;;
+Tongatabu;Tongatabu;;;
+Tahiti;Tahiti;;;
+OÅ¿ter-Eyland;Oster-Eyland;;;
+OÅ¿ter-Eylands;Oster-Eylands;;;
+Neu-Seeland;Neu-Seeland;;;
